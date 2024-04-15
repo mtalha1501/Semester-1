@@ -1,0 +1,8 @@
+Biscuits^30^0^14^
+Lays^70^0^10^
+Bread_pack^200^0^23^
+Milk_Pack^50^0^9^
+Marker^60^0^8^
+Rice_Pack^250^0^12^
+Flour_Pack^150^0^20^
+Cake^25^0^20^
